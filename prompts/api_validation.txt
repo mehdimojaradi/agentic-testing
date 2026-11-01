@@ -1,0 +1,2 @@
+First read the feature specification and based on that using your 'read_feature_file' tool, 
+Execute a GET request to the user endpoint hosted at 'https://jsonplaceholder.typicode.com/users' using your 'fetch_url' tool.

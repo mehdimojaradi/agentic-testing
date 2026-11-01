@@ -1,0 +1,36 @@
+{
+    "type": "session",
+    "session_id": "a16fde78-f199-4715-8792-40536645fe21",
+    "service_session_id": null,
+    "state": {
+        "memory": {
+            "messages": [
+                {
+                    "role": "user",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "generate two names of famous movies, just the names, no description, no explanation, no additional text, no punctuation, no quotes, no brackets, no parentheses, no numbers, no letters, just the names of the movies.",
+                            "additional_properties": {}
+                        }
+                    ],
+                    "additional_properties": {},
+                    "type": "message"
+                },
+                {
+                    "role": "assistant",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Inception\nThe Shawshank Redemption",
+                            "additional_properties": {}
+                        }
+                    ],
+                    "author_name": "MovieNameGenerator1",
+                    "additional_properties": {},
+                    "type": "message"
+                }
+            ]
+        }
+    }
+}

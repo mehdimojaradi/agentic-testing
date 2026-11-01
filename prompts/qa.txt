@@ -1,0 +1,2 @@
+Inspect the response fetched in the previous step. Answer the below question without any hallucination.
+There must be a user record with username='Antonette', fetch the email for that user and print it.
